@@ -7,6 +7,7 @@ import { motion, useReducedMotion } from 'framer-motion';
 
 const Metal = dynamic(() => import('@paper-design/shaders-react').then(m => m.LiquidMetal), { ssr: false });
 const Border = dynamic(() => import('@paper-design/shaders-react').then(m => m.PulsingBorder), { ssr: false });
+const context: WebGLContextAttributes = { alpha: true, premultipliedAlpha: false, preserveDrawingBuffer: true, powerPreference: 'low-power' };
 
 export function SmoothScroll() {
   useEffect(() => {
@@ -28,8 +29,8 @@ export function Atmosphere({ border = false }: { border?: boolean }) {
   }, []);
   if (!ready) return null;
   return <div className="shader" aria-hidden="true" style={{ pointerEvents: 'none' }}>
-    {border ? <Border style={{ width: '100%', height: '100%' }} minPixelRatio={1} maxPixelCount={450000} colors={['#d90429', '#71717a']} colorBack="#09090b" speed={0.15} thickness={0.03} roundness={0.02} /> :
-      <Metal style={{ width: '100%', height: '100%', opacity: 0.48 }} minPixelRatio={1} maxPixelCount={650000} shape="none" colorBack="#09090b" colorTint="#9c858a" repetition={1.5} softness={0.55} shiftRed={0.12} shiftBlue={0} distortion={0.15} contour={0.2} angle={70} speed={0.12} scale={1} />}
+    {border ? <Border style={{ width: '100%', height: '100%' }} webGlContextAttributes={context} minPixelRatio={1} maxPixelCount={450000} colors={['#d90429', '#71717a']} colorBack="#09090b" speed={0.15} thickness={0.03} roundness={0.02} /> :
+      <Metal style={{ width: '100%', height: '100%', opacity: 0.48 }} webGlContextAttributes={context} minPixelRatio={1} maxPixelCount={650000} shape="none" colorBack="#09090b" colorTint="#9c858a" repetition={1.5} softness={0.55} shiftRed={0.12} shiftBlue={0} distortion={0.15} contour={0.2} angle={70} speed={0.12} scale={1} />}
   </div>;
 }
 
