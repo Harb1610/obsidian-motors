@@ -10,9 +10,9 @@ const display = Cormorant_Garamond({ subsets: ['latin'], weight: ['400', '500', 
 const technical = Space_Grotesk({ subsets: ['latin'], variable: '--font-tech', display: 'swap' });
 export const metadata: Metadata = {
   title: { default: 'Obsidian Motors | El arte de conducir', template: '%s | Obsidian Motors' },
-  description: 'Una colección ficticia de 40 leyendas del automovilismo. Deportivos clásicos e hiperdeportivos, reunidos en un showroom digital en Bogotá.',
+  description: 'Una colección ficticia de 40 deportivos modernos e hiperdeportivos de 2000 en adelante, reunidos en un showroom digital en Bogotá.',
   icons: { icon: '/logo.jpg', apple: '/logo.jpg' },
-  openGraph: { title: 'Obsidian Motors', description: 'El automóvil como obra de arte. Explora 40 leyendas del asfalto.', locale: 'es_CO', type: 'website' },
+  openGraph: { title: 'Obsidian Motors', description: 'El automóvil como obra de arte. Explora 40 deportivos modernos e hiperdeportivos.', locale: 'es_CO', type: 'website' },
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
