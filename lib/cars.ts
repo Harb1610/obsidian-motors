@@ -9,11 +9,3 @@ const currency = new Intl.NumberFormat('es-CO', {
   style: 'currency', currency: 'USD', maximumFractionDigits: 0, currencyDisplay: 'code',
 });
 export const money = (value: number) => currency.format(value);
-
-/** Los enlaces de atribución apuntan al archivo original de Commons. */
-export function photoSource(image: string): string {
-  const url = new URL(image);
-  const parts = url.pathname.split('/');
-  const filename = url.pathname.includes('/thumb/') ? parts[parts.length - 2] : parts[parts.length - 1];
-  return `https://commons.wikimedia.org/wiki/File:${filename}`;
-}
