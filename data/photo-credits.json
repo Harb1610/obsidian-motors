@@ -1,42 +1,1666 @@
 [
-{"id":1,"author":"Matti Blume","license":"CC BY 2.0 DE"},
-{"id":2,"author":"Alexandre Prévot","license":"CC BY-SA 2.0"},
-{"id":3,"author":"Handelsgeselschaft","license":"CC BY-SA 4.0"},
-{"id":4,"author":"Dinkun Chen","license":"CC BY-SA 4.0"},
-{"id":5,"author":"MrWalkr","license":"CC BY-SA 4.0"},
-{"id":6,"author":"Matti Blume","license":"CC BY 2.0 DE"},
-{"id":7,"author":"Charles from Port Chester, New York","license":"CC BY 2.0"},
-{"id":8,"author":"Alexander-93","license":"CC BY-SA 4.0"},
-{"id":9,"author":"M93","license":"CC BY-SA 3.0 DE"},
-{"id":10,"author":"Alexandre Prévot","license":"CC BY-SA 2.0"},
-{"id":11,"author":"Mr.choppers","license":"CC BY-SA 3.0"},
-{"id":12,"author":"Alexander Migl","license":"CC BY-SA 4.0"},
-{"id":13,"author":"MrWalkr","license":"CC BY-SA 4.0"},
-{"id":14,"author":"Matti Blume","license":"CC BY-SA 4.0"},
-{"id":15,"author":"Latvian98","license":"CC BY-SA 4.0"},
-{"id":16,"author":"Mr.choppers","license":"CC BY-SA 3.0"},
-{"id":17,"author":"Saggittarius A","license":"CC BY-SA 4.0"},
-{"id":18,"author":"ProvaMO","license":"CC BY-SA 4.0"},
-{"id":19,"author":"Vauxford","license":"CC BY-SA 4.0"},
-{"id":20,"author":"MN","license":"CC BY-SA 4.0"},
-{"id":21,"author":"Axion23","license":"CC BY 2.0"},
-{"id":22,"author":"Calreyn88","license":"CC BY-SA 4.0"},
-{"id":23,"author":"AngMoKio","license":"CC BY-SA 2.5"},
-{"id":24,"author":"Calreyn88","license":"CC BY-SA 4.0"},
-{"id":25,"author":"LSDSL","license":"CC BY-SA 2.0 DE"},
-{"id":26,"author":"Vauxford","license":"CC BY-SA 4.0"},
-{"id":27,"author":"Ank Kumar","license":"CC BY-SA 4.0"},
-{"id":28,"author":"Chelsea Jay","license":"CC BY-SA 4.0"},
-{"id":29,"author":"Chelsea Jay","license":"CC BY-SA 4.0"},
-{"id":30,"author":"Alexander Migl","license":"CC BY-SA 4.0"},
-{"id":31,"author":"MrWalkr","license":"CC BY-SA 4.0"},
-{"id":32,"author":"Alexander-93","license":"CC BY-SA 4.0"},
-{"id":33,"author":"Alexander Migl","license":"CC BY-SA 4.0"},
-{"id":34,"author":"Matti Blume","license":"CC BY-SA 4.0"},
-{"id":35,"author":"Alexander Migl","license":"CC BY-SA 4.0"},
-{"id":36,"author":"Alexander-93","license":"CC BY-SA 4.0"},
-{"id":37,"author":"Matti Blume","license":"CC BY-SA 4.0"},
-{"id":38,"author":"Bryan S","license":"CC BY-SA 2.0"},
-{"id":39,"author":"Liam Walker","license":"CC BY-SA 4.0"},
-{"id":40,"author":"MrWalkr","license":"CC BY-SA 4.0"}
+  {
+    "carId": 1,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Orange_Lamborghini_Gallardo_LP560_fl.JPG/1920px-Orange_Lamborghini_Gallardo_LP560_fl.JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:Orange_Lamborghini_Gallardo_LP560_fl.JPG",
+    "author": "Matti Blume",
+    "license": "CC BY 2.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/de/deed.en"
+  },
+  {
+    "carId": 1,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Lamborghini_Gallardo_LP560-4_%28front%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lamborghini_Gallardo_LP560-4_(front).jpg",
+    "author": "Tim Wang",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "carId": 1,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Lamborghini_Gallardo_LP560-4_%28rear%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lamborghini_Gallardo_LP560-4_(rear).jpg",
+    "author": "Tim Wang",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "carId": 1,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Lamborghini_Gallardo_LP560-4_1230267.jpg/1920px-Lamborghini_Gallardo_LP560-4_1230267.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lamborghini_Gallardo_LP560-4_1230267.jpg",
+    "author": "Ermell",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 2,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ferrari_F430_-_Flickr_-_Alexandre_Pr%C3%A9vot_%284%29.jpg/1920px-Ferrari_F430_-_Flickr_-_Alexandre_Pr%C3%A9vot_%284%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_F430_-_Flickr_-_Alexandre_Pr%C3%A9vot_(4).jpg",
+    "author": "Alexandre Prévot from Nancy, France",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "carId": 2,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ferrari_F430_%282017-07-31_Sp_r%29.JPG/1920px-Ferrari_F430_%282017-07-31_Sp_r%29.JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_F430_(2017-07-31_Sp_r).JPG",
+    "author": "Lothar Spurzem",
+    "license": "CC BY-SA 2.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en"
+  },
+  {
+    "carId": 2,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ferrari_F430%2C_Heck_%282017-07-31_Sp%29.JPG/1920px-Ferrari_F430%2C_Heck_%282017-07-31_Sp%29.JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_F430,_Heck_(2017-07-31_Sp).JPG",
+    "author": "Lothar Spurzem",
+    "license": "CC BY-SA 2.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en"
+  },
+  {
+    "carId": 2,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ferrari_F430_2.jpg/1920px-Ferrari_F430_2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_F430_2.jpg",
+    "author": "Cars en travel at Dutch Wikipedia",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  {
+    "carId": 3,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ferrari_458_Italia%2C_Toulouse_%282%29.jpg/1920px-Ferrari_458_Italia%2C_Toulouse_%282%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_458_Italia,_Toulouse_(2).jpg",
+    "author": "Handelsgeselschaft",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 3,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ferrari_458_Italia%2C_Toulouse.jpg/1920px-Ferrari_458_Italia%2C_Toulouse.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_458_Italia,_Toulouse.jpg",
+    "author": "Handelsgeselschaft",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 3,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2011_Ferrari_458_Italia_DCT_S-A_4.5_Front.jpg/1920px-2011_Ferrari_458_Italia_DCT_S-A_4.5_Front.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2011_Ferrari_458_Italia_DCT_S-A_4.5_Front.jpg",
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 3,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2011_Ferrari_458_Italia_3.jpg/1920px-2011_Ferrari_458_Italia_3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2011_Ferrari_458_Italia_3.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 4,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/NISSAN_GT-R_%28R35%2C_2011_FACELIFT%29_China.jpg/1920px-NISSAN_GT-R_%28R35%2C_2011_FACELIFT%29_China.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:NISSAN_GT-R_(R35,_2011_FACELIFT)_China.jpg",
+    "author": "Dinkun Chen",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 4,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nissan_GT-R_%28R35%2C_2011_facelift%29_in_Brunei_01.jpg/1920px-Nissan_GT-R_%28R35%2C_2011_facelift%29_in_Brunei_01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Nissan_GT-R_(R35,_2011_facelift)_in_Brunei_01.jpg",
+    "author": "Pangalau",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 4,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/NISSAN_GT-R_%28R35%29_China_%285%29.jpg/1920px-NISSAN_GT-R_%28R35%29_China_%285%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:NISSAN_GT-R_(R35)_China_(5).jpg",
+    "author": "Dinkun Chen",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 4,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/NISSAN_GT-R_%28R35%29_China_%284%29.jpg/1920px-NISSAN_GT-R_%28R35%29_China_%284%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:NISSAN_GT-R_(R35)_China_(4).jpg",
+    "author": "Dinkun Chen",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 5,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/2011_Lexus_LFA_Front.jpg/1920px-2011_Lexus_LFA_Front.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2011_Lexus_LFA_Front.jpg",
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 5,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/2011_Lexus_LFA_White.jpg/1920px-2011_Lexus_LFA_White.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2011_Lexus_LFA_White.jpg",
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 5,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/2011_Lexus_LFA_Low.jpg/1920px-2011_Lexus_LFA_Low.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2011_Lexus_LFA_Low.jpg",
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 5,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2011_Lexus_LFA_Rear.jpg/1920px-2011_Lexus_LFA_Rear.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2011_Lexus_LFA_Rear.jpg",
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 6,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/White_Audi_R8_fl.jpg/1920px-White_Audi_R8_fl.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:White_Audi_R8_fl.jpg",
+    "author": "Matti Blume",
+    "license": "CC BY 2.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/de/deed.en"
+  },
+  {
+    "carId": 6,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Audi_R8_4.2_%2707_%2825917702396%29.jpg/1920px-Audi_R8_4.2_%2707_%2825917702396%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Audi_R8_4.2_%2707_(25917702396).jpg",
+    "author": "Falcon® Photography from France",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "carId": 6,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Audi_R8_4.2_FSI_quattro_%28ABA-42BYHF%29_front.JPG/1920px-Audi_R8_4.2_FSI_quattro_%28ABA-42BYHF%29_front.JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:Audi_R8_4.2_FSI_quattro_(ABA-42BYHF)_front.JPG",
+    "author": "Tokumeigakarinoaoshima",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 6,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Audi_R8_pitak.JPG/1920px-Audi_R8_pitak.JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:Audi_R8_pitak.JPG",
+    "author": "Pitak",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "carId": 7,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Chevrolet_Corvette_Z06_%28C7%2C_2019%29_%2852339134374%29.jpg/1920px-Chevrolet_Corvette_Z06_%28C7%2C_2019%29_%2852339134374%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Chevrolet_Corvette_Z06_(C7,_2019)_(52339134374).jpg",
+    "author": "Charles from Port Chester, New York",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "carId": 7,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Corvette_Z06_Cabriolet_%28C7%29_%E2%80%93_Innenraum%2C_28._Oktober_2015%2C_D%C3%BCsseldorf.jpg/1920px-Corvette_Z06_Cabriolet_%28C7%29_%E2%80%93_Innenraum%2C_28._Oktober_2015%2C_D%C3%BCsseldorf.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Corvette_Z06_Cabriolet_(C7)_%E2%80%93_Innenraum,_28._Oktober_2015,_D%C3%BCsseldorf.jpg",
+    "author": "M 93",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+  },
+  {
+    "carId": 7,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Corvette_Z06_Cabriolet_%28C7%29_%E2%80%93_Heckansicht_ge%C3%B6ffnet%2C_28._Oktober_2015%2C_D%C3%BCsseldorf.jpg/1920px-Corvette_Z06_Cabriolet_%28C7%29_%E2%80%93_Heckansicht_ge%C3%B6ffnet%2C_28._Oktober_2015%2C_D%C3%BCsseldorf.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Corvette_Z06_Cabriolet_(C7)_%E2%80%93_Heckansicht_ge%C3%B6ffnet,_28._Oktober_2015,_D%C3%BCsseldorf.jpg",
+    "author": "M 93",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+  },
+  {
+    "carId": 7,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Chevrolet_Corvette_Z06_C7.jpg/1920px-Chevrolet_Corvette_Z06_C7.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Chevrolet_Corvette_Z06_C7.jpg",
+    "author": "בר",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "carId": 8,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Porsche_997_GT3_RS_%282006%29_IMG_2546.jpg/1920px-Porsche_997_GT3_RS_%282006%29_IMG_2546.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Porsche_997_GT3_RS_(2006)_IMG_2546.jpg",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 8,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Porsche_911_997_GT3_RS_%2868893%29.jpg/1920px-Porsche_911_997_GT3_RS_%2868893%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Porsche_911_997_GT3_RS_(68893).jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 8,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Porsche_911_%28997%29_GT3_RS_3.6_-_avant.jpg/1920px-Porsche_911_%28997%29_GT3_RS_3.6_-_avant.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Porsche_911_(997)_GT3_RS_3.6_-_avant.jpg",
+    "author": "The Car Spy on Flickr : https://www.flickr.com/photos/thecarspy/",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "carId": 8,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Porsche_911_%28997%29_GT3_RS_3.6_-_arri%C3%A8re.jpg/1920px-Porsche_911_%28997%29_GT3_RS_3.6_-_arri%C3%A8re.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Porsche_911_(997)_GT3_RS_3.6_-_arri%C3%A8re.jpg",
+    "author": "The Car Spy on Flickr : https://www.flickr.com/photos/thecarspy/",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "carId": 9,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%282%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg/1920px-Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%282%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_(2),_5._April_2012,_D%C3%BCsseldorf.jpg",
+    "author": "M 93",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+  },
+  {
+    "carId": 9,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bugatti_Veyron_16.4_%E2%80%93_Heckansicht_%284%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg/1920px-Bugatti_Veyron_16.4_%E2%80%93_Heckansicht_%284%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_16.4_%E2%80%93_Heckansicht_(4),_5._April_2012,_D%C3%BCsseldorf.jpg",
+    "author": "M 93",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+  },
+  {
+    "carId": 9,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%283%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg/1920px-Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%283%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_(3),_5._April_2012,_D%C3%BCsseldorf.jpg",
+    "author": "M 93",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+  },
+  {
+    "carId": 9,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%281%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg/1920px-Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%281%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_(1),_5._April_2012,_D%C3%BCsseldorf.jpg",
+    "author": "M 93",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+  },
+  {
+    "carId": 10,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Maserati_MC12_%288675041842%29.jpg/1920px-Maserati_MC12_%288675041842%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Maserati_MC12_(8675041842).jpg",
+    "author": "Alexandre Prévot from Nancy, France",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "carId": 10,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Maserati_MC12_2.jpg/1920px-Maserati_MC12_2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Maserati_MC12_2.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 10,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/2004_Maserati_MC12_HCC23.jpg/1920px-2004_Maserati_MC12_HCC23.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2004_Maserati_MC12_HCC23.jpg",
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 10,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/2004_Maserati_MC12_Low_HCC23.jpg/1920px-2004_Maserati_MC12_Low_HCC23.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2004_Maserati_MC12_Low_HCC23.jpg",
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 11,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/2021_McLaren_765LT_Coup%C3%A9_in_White%2C_front_right.jpg/1920px-2021_McLaren_765LT_Coup%C3%A9_in_White%2C_front_right.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2021_McLaren_765LT_Coup%C3%A9_in_White,_front_right.jpg",
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "carId": 11,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/McLaren_765LT_IMG_3930.jpg/1920px-McLaren_765LT_IMG_3930.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:McLaren_765LT_IMG_3930.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 11,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/McLaren_765LT_IMG_3931.jpg/1920px-McLaren_765LT_IMG_3931.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:McLaren_765LT_IMG_3931.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 11,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/2020_McLaren_765LT_4.0.jpg/1920px-2020_McLaren_765LT_4.0.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2020_McLaren_765LT_4.0.jpg",
+    "author": "Liam Walker",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 12,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ferrari_296_GTB_1X7A6377.jpg/1920px-Ferrari_296_GTB_1X7A6377.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_296_GTB_1X7A6377.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 12,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ferrari_296_GTB_1X7A6379.jpg/1920px-Ferrari_296_GTB_1X7A6379.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_296_GTB_1X7A6379.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 12,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ferrari_296_GTB_IMG_8865.jpg/1920px-Ferrari_296_GTB_IMG_8865.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_296_GTB_IMG_8865.jpg",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 12,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ferrari_296_GTB_DSC_7011.jpg/1920px-Ferrari_296_GTB_DSC_7011.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_296_GTB_DSC_7011.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 13,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2022_Lamborghini_Huracan_STO_Front.jpg/1920px-2022_Lamborghini_Huracan_STO_Front.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2022_Lamborghini_Huracan_STO_Front.jpg",
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 13,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Lamborghini_Huracan_STO_1X7A0297.jpg/1920px-Lamborghini_Huracan_STO_1X7A0297.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lamborghini_Huracan_STO_1X7A0297.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 13,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lamborghini_Huracan_STO_1X7A7216.jpg/1920px-Lamborghini_Huracan_STO_1X7A7216.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lamborghini_Huracan_STO_1X7A7216.jpg",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 13,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Lamborghini_Hurac%C3%A1n_STO_IMG_9892.jpg/1920px-Lamborghini_Hurac%C3%A1n_STO_IMG_9892.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lamborghini_Hurac%C3%A1n_STO_IMG_9892.jpg",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 14,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mercedes-AMG_One%2C_EMS_2024%2C_Essen_%28P1032097%29.jpg/1920px-Mercedes-AMG_One%2C_EMS_2024%2C_Essen_%28P1032097%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_One,_EMS_2024,_Essen_(P1032097).jpg",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  {
+    "carId": 14,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mercedes-AMG_One_IAA_2023_1X7A0454.jpg/1920px-Mercedes-AMG_One_IAA_2023_1X7A0454.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_One_IAA_2023_1X7A0454.jpg",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 14,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Mercedes-AMG_One%2C_Techno-Classica_2025%2C_Essen_%28P1045566%29.jpg/1920px-Mercedes-AMG_One%2C_Techno-Classica_2025%2C_Essen_%28P1045566%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_One,_Techno-Classica_2025,_Essen_(P1045566).jpg",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  {
+    "carId": 14,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Mercedes-AMG_Project_One%2C_Frankfurt_%281Y7A3473%29.jpg/1920px-Mercedes-AMG_Project_One%2C_Frankfurt_%281Y7A3473%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_Project_One,_Frankfurt_(1Y7A3473).jpg",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 15,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/2017_Ford_GT_front.JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:2017_Ford_GT_front.JPG",
+    "author": "Latvian98",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 15,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ford_GT_%282nd_generation%29_coupes_IMG_0224.jpg/1920px-Ford_GT_%282nd_generation%29_coupes_IMG_0224.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ford_GT_(2nd_generation)_coupes_IMG_0224.jpg",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 15,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/2017_Ford_GT_%2894302%29.jpg/1920px-2017_Ford_GT_%2894302%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2017_Ford_GT_(94302).jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 15,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/2017_Ford_GT_rear.JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:2017_Ford_GT_rear.JPG",
+    "author": "Latvian98",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 16,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/2020_McLaren_Speedtail_in_Kilo_Gray%2C_front_left_%28Greenwich_2022%29.jpg/1920px-2020_McLaren_Speedtail_in_Kilo_Gray%2C_front_left_%28Greenwich_2022%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2020_McLaren_Speedtail_in_Kilo_Gray,_front_left_(Greenwich_2022).jpg",
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "carId": 16,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/McLaren_Speedtail_Genf_2019_1Y7A5298.jpg/1920px-McLaren_Speedtail_Genf_2019_1Y7A5298.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:McLaren_Speedtail_Genf_2019_1Y7A5298.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 16,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Side_profile_of_a_McLaren_Speedtail.jpg/1920px-Side_profile_of_a_McLaren_Speedtail.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Side_profile_of_a_McLaren_Speedtail.jpg",
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 16,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2020_McLaren_Speedtail_4.0_Rear.jpg/1920px-2020_McLaren_Speedtail_4.0_Rear.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2020_McLaren_Speedtail_4.0_Rear.jpg",
+    "author": "Liam Walker",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 17,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Pagani_Huayra_R_Milano_1.jpg/1920px-Pagani_Huayra_R_Milano_1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_R_Milano_1.jpg",
+    "author": "Saggittarius A",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 17,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2022_Pagani_Huayra_R_SCD26.jpg/1920px-2022_Pagani_Huayra_R_SCD26.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2022_Pagani_Huayra_R_SCD26.jpg",
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 17,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Pagani_Huayra_R_%2840249%29.jpg/1920px-Pagani_Huayra_R_%2840249%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_R_(40249).jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 17,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pagani_Huayra_R_Milano_2.jpg/1920px-Pagani_Huayra_R_Milano_2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_R_Milano_2.jpg",
+    "author": "Saggittarius A",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 18,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ferrari_Daytona_SP3_front_side_at_CF_2022.jpg/1920px-Ferrari_Daytona_SP3_front_side_at_CF_2022.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_Daytona_SP3_front_side_at_CF_2022.jpg",
+    "author": "Prova MO",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 18,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2024_Ferrari_Daytona_SP3_rear.jpg/1920px-2024_Ferrari_Daytona_SP3_rear.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2024_Ferrari_Daytona_SP3_rear.jpg",
+    "author": "TTTNIS",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "carId": 18,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Ferrari_Daytona_SP3_front_at_CF_2022.jpg/1920px-Ferrari_Daytona_SP3_front_at_CF_2022.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_Daytona_SP3_front_at_CF_2022.jpg",
+    "author": "Prova MO",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 18,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ferrari_Daytona_SP3_rear_side_at_CF_2022.jpg/1920px-Ferrari_Daytona_SP3_rear_side_at_CF_2022.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_Daytona_SP3_rear_side_at_CF_2022.jpg",
+    "author": "Prova MO",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 19,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/2019_Automobili_Pininfarina_Battista_Front.jpg/1920px-2019_Automobili_Pininfarina_Battista_Front.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2019_Automobili_Pininfarina_Battista_Front.jpg",
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 19,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Pininfarina_Battista_Auto_Zuerich_2023_1X7A1447.jpg/1920px-Pininfarina_Battista_Auto_Zuerich_2023_1X7A1447.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pininfarina_Battista_Auto_Zuerich_2023_1X7A1447.jpg",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 19,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Pininfarina_Battista%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS9970%29.jpg/1920px-Pininfarina_Battista%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS9970%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pininfarina_Battista,_GIMS_2019,_Le_Grand-Saconnex_(GIMS9970).jpg",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 19,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Pininfarina_Battista%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS1057%29.jpg/1920px-Pininfarina_Battista%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS1057%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pininfarina_Battista,_GIMS_2019,_Le_Grand-Saconnex_(GIMS1057).jpg",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 20,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Lotus_Evija_front.jpg/1920px-Lotus_Evija_front.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lotus_Evija_front.jpg",
+    "author": "MN",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 20,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Lotus_Evija_MYLE_Festival_2025_DSC_9431.jpg/1920px-Lotus_Evija_MYLE_Festival_2025_DSC_9431.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lotus_Evija_MYLE_Festival_2025_DSC_9431.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 20,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Lotus_Evija_MYLE_Festival_2025_DSC_9429.jpg/1920px-Lotus_Evija_MYLE_Festival_2025_DSC_9429.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lotus_Evija_MYLE_Festival_2025_DSC_9429.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 20,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Lotus_Evija_005.jpg/1920px-Lotus_Evija_005.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lotus_Evija_005.jpg",
+    "author": "JustAnotherCarDesigner",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "carId": 21,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Orange_Enzo_Ferrari_%287191948164%29.jpg/1920px-Orange_Enzo_Ferrari_%287191948164%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Orange_Enzo_Ferrari_(7191948164).jpg",
+    "author": "Axion23",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "carId": 21,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2003_Ferrari_Enzo.jpg/1920px-2003_Ferrari_Enzo.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2003_Ferrari_Enzo.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 21,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/2004_Ferrari_Enzo_2.jpg/1920px-2004_Ferrari_Enzo_2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2004_Ferrari_Enzo_2.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 21,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/2004_Ferrari_Enzo_6.jpg/1920px-2004_Ferrari_Enzo_6.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2004_Ferrari_Enzo_6.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 22,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Porsche_Carrera_GT_%2888960%29.jpg/1920px-Porsche_Carrera_GT_%2888960%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_(88960).jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 22,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Porsche_Carrera_GT%2C_Techno-Classica_2025%2C_Essen_%28P1046086%29.jpg/1920px-Porsche_Carrera_GT%2C_Techno-Classica_2025%2C_Essen_%28P1046086%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT,_Techno-Classica_2025,_Essen_(P1046086).jpg",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  {
+    "carId": 22,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Porsche_Carrera_GT_%2858140%29.jpg/1920px-Porsche_Carrera_GT_%2858140%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_(58140).jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 22,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Porsche_Carrera_GT_%2847171%29.jpg/1920px-Porsche_Carrera_GT_%2847171%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_(47171).jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 23,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Mercedes_SLR_C199_2007_amk.jpg/1920px-Mercedes_SLR_C199_2007_amk.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mercedes_SLR_C199_2007_amk.jpg",
+    "author": "user:AngMoKio",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+  },
+  {
+    "carId": 23,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Mclaren_SLR_%2815884732811%29.jpg/1920px-Mclaren_SLR_%2815884732811%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mclaren_SLR_(15884732811).jpg",
+    "author": "Ben",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "carId": 23,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mercedes-Benz_SLR_McLaren_%288615973055%29_%28cropped%29.jpg/1920px-Mercedes-Benz_SLR_McLaren_%288615973055%29_%28cropped%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_SLR_McLaren_(8615973055)_(cropped).jpg",
+    "author": "Alexandre Prévot from Nancy, France",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "carId": 23,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Mercedes-Benz_SLR_McLaren_2_cropped.jpg/1920px-Mercedes-Benz_SLR_McLaren_2_cropped.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_SLR_McLaren_2_cropped.jpg",
+    "author": "Cars en travel, cropped by Zoid",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  {
+    "carId": 24,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/2005_Ford_GT_6.jpg/1920px-2005_Ford_GT_6.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2005_Ford_GT_6.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 24,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/2005_Ford_GT_7.jpg/1920px-2005_Ford_GT_7.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2005_Ford_GT_7.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 24,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2005_Ford_GT_4.jpg/1920px-2005_Ford_GT_4.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2005_Ford_GT_4.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 24,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/2005_Ford_GT_5.jpg/1920px-2005_Ford_GT_5.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2005_Ford_GT_5.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 25,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pagani_Zonda_F_Carbon.jpg/1920px-Pagani_Zonda_F_Carbon.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pagani_Zonda_F_Carbon.jpg",
+    "author": "LSDSL",
+    "license": "CC BY-SA 2.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en"
+  },
+  {
+    "carId": 25,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Pagani_Zonda_F_Rear.jpg/1920px-Pagani_Zonda_F_Rear.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pagani_Zonda_F_Rear.jpg",
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 25,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Pagani_Zonda_F_CS_Side.jpg/1920px-Pagani_Zonda_F_CS_Side.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pagani_Zonda_F_CS_Side.jpg",
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 25,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/2007_Pagani_Zonda_F_CS.jpg/1920px-2007_Pagani_Zonda_F_CS.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2007_Pagani_Zonda_F_CS.jpg",
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 26,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/2007_Lamborghini_Murcielago_6.2.jpg/1920px-2007_Lamborghini_Murcielago_6.2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2007_Lamborghini_Murcielago_6.2.jpg",
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 26,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Lamborghini_Murcielago_12.jpg/1920px-Lamborghini_Murcielago_12.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lamborghini_Murcielago_12.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 26,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Lamborghini_Murcielago_13.jpg/1920px-Lamborghini_Murcielago_13.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lamborghini_Murcielago_13.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 26,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Lamborghini_Murcielago_7.jpg/1920px-Lamborghini_Murcielago_7.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lamborghini_Murcielago_7.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 27,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ferrari_LaFerrari_at_Grand_Basel_2018_01.jpg/1920px-Ferrari_LaFerrari_at_Grand_Basel_2018_01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_LaFerrari_at_Grand_Basel_2018_01.jpg",
+    "author": "Ank Kumar",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 27,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ferrari_LaFerrari_GIMS_2024_1X7A2272.jpg/1920px-Ferrari_LaFerrari_GIMS_2024_1X7A2272.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_LaFerrari_GIMS_2024_1X7A2272.jpg",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 27,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Geneva_MotorShow_2013_-_Ferrari_LaFerrari_front_light.jpg/1920px-Geneva_MotorShow_2013_-_Ferrari_LaFerrari_front_light.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Geneva_MotorShow_2013_-_Ferrari_LaFerrari_front_light.jpg",
+    "author": "Clément Bucco-Lechat",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "carId": 27,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Ferrari_LaFerrari_at_Grand_Basel_2018_05.jpg/1920px-Ferrari_LaFerrari_at_Grand_Basel_2018_05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_LaFerrari_at_Grand_Basel_2018_05.jpg",
+    "author": "Ank Kumar",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 28,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2014_McLaren_P1_3.8.jpg/1920px-2014_McLaren_P1_3.8.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2014_McLaren_P1_3.8.jpg",
+    "author": "Chelsea Jay",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 28,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/2013_McLaren_P1.jpg/1920px-2013_McLaren_P1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2013_McLaren_P1.jpg",
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 28,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/2015_Track_Silver_McLaren_P1.jpg/1920px-2015_Track_Silver_McLaren_P1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2015_Track_Silver_McLaren_P1.jpg",
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 28,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/McLaren_P1_17.jpg/1920px-McLaren_P1_17.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:McLaren_P1_17.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 29,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/2015_Porsche_918_Spyder_4.6.jpg/1920px-2015_Porsche_918_Spyder_4.6.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2015_Porsche_918_Spyder_4.6.jpg",
+    "author": "Chelsea Jay",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 29,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Porsche_918_Spyder_IAA_2013.jpg/1920px-Porsche_918_Spyder_IAA_2013.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Porsche_918_Spyder_IAA_2013.jpg",
+    "author": "Thomas Wolf, www.foto-tw.de",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+  },
+  {
+    "carId": 29,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Porsche_918_Spyder_IAA_2013_Heckansicht_links.jpg/1920px-Porsche_918_Spyder_IAA_2013_Heckansicht_links.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Porsche_918_Spyder_IAA_2013_Heckansicht_links.jpg",
+    "author": "Thomas Wolf, www.foto-tw.de",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+  },
+  {
+    "carId": 29,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Porsche_918_Spyder_IAA_2013_Heckansicht_rechts.jpg/1920px-Porsche_918_Spyder_IAA_2013_Heckansicht_rechts.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Porsche_918_Spyder_IAA_2013_Heckansicht_rechts.jpg",
+    "author": "Thomas Wolf, www.foto-tw.de",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+  },
+  {
+    "carId": 30,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Lamborghini_Aventador_LP700-4_IMG_0004.jpg/1920px-Lamborghini_Aventador_LP700-4_IMG_0004.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lamborghini_Aventador_LP700-4_IMG_0004.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 30,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lamborghini_Aventador_LP700-4_Toulouse.jpg/1920px-Lamborghini_Aventador_LP700-4_Toulouse.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lamborghini_Aventador_LP700-4_Toulouse.jpg",
+    "author": "Handelsgeselschaft",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 30,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lamborghini_Aventador_LP700-4_Pirelli_Edition_at_Geneva_International_Motor_Show_2015_03.jpg/1920px-Lamborghini_Aventador_LP700-4_Pirelli_Edition_at_Geneva_International_Motor_Show_2015_03.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lamborghini_Aventador_LP700-4_Pirelli_Edition_at_Geneva_International_Motor_Show_2015_03.jpg",
+    "author": "Ank Kumar",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 30,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Lamborghini_Aventador_LP700-4_Pirelli_Edition_at_Geneva_International_Motor_Show_2015_02.jpg/1920px-Lamborghini_Aventador_LP700-4_Pirelli_Edition_at_Geneva_International_Motor_Show_2015_02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lamborghini_Aventador_LP700-4_Pirelli_Edition_at_Geneva_International_Motor_Show_2015_02.jpg",
+    "author": "Ank Kumar",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 31,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bugatti_Chiron_2017.jpg/1920px-Bugatti_Chiron_2017.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_2017.jpg",
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 31,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bugatti_Chiron%2C_GIMS_2018%2C_Le_Grand-Saconnex_%281X7A1765%29.jpg/1920px-Bugatti_Chiron%2C_GIMS_2018%2C_Le_Grand-Saconnex_%281X7A1765%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bugatti_Chiron,_GIMS_2018,_Le_Grand-Saconnex_(1X7A1765).jpg",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 31,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bugatti_Chiron%2C_IAA_2017%2C_Frankfurt_%281Y7A2855%29.jpg/1920px-Bugatti_Chiron%2C_IAA_2017%2C_Frankfurt_%281Y7A2855%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bugatti_Chiron,_IAA_2017,_Frankfurt_(1Y7A2855).jpg",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 31,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bugatti_Chiron%2C_IAA_2017%2C_Frankfurt_%281Y7A2857%29.jpg/1920px-Bugatti_Chiron%2C_IAA_2017%2C_Frankfurt_%281Y7A2857%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bugatti_Chiron,_IAA_2017,_Frankfurt_(1Y7A2857).jpg",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 32,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Koenigsegg_Jesko_Auto_Zuerich_2023_1X7A1382.jpg/1920px-Koenigsegg_Jesko_Auto_Zuerich_2023_1X7A1382.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Koenigsegg_Jesko_Auto_Zuerich_2023_1X7A1382.jpg",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 32,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Koenigsegg_Jesko_Auto_Zuerich_2023_1X7A1377.jpg/1920px-Koenigsegg_Jesko_Auto_Zuerich_2023_1X7A1377.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Koenigsegg_Jesko_Auto_Zuerich_2023_1X7A1377.jpg",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 32,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Koenigsegg_Jesko_Auto_Zuerich_2023_1X7A1375.jpg/1920px-Koenigsegg_Jesko_Auto_Zuerich_2023_1X7A1375.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Koenigsegg_Jesko_Auto_Zuerich_2023_1X7A1375.jpg",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 32,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Koenigsegg_Jesko_Auto_Zuerich_2023_1X7A0924.jpg/1920px-Koenigsegg_Jesko_Auto_Zuerich_2023_1X7A0924.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Koenigsegg_Jesko_Auto_Zuerich_2023_1X7A0924.jpg",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 33,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/McLaren_Senna_Genf_2018.jpg/1920px-McLaren_Senna_Genf_2018.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:McLaren_Senna_Genf_2018.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 33,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/McLaren_Senna%2C_GIMS_2018%2C_Le_Grand-Saconnex_%281X7A0404%29.jpg/1920px-McLaren_Senna%2C_GIMS_2018%2C_Le_Grand-Saconnex_%281X7A0404%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:McLaren_Senna,_GIMS_2018,_Le_Grand-Saconnex_(1X7A0404).jpg",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 33,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Geneva_International_Motor_Show_2018%2C_Le_Grand-Saconnex_%281X7A0410%29.jpg/1920px-Geneva_International_Motor_Show_2018%2C_Le_Grand-Saconnex_%281X7A0410%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Geneva_International_Motor_Show_2018,_Le_Grand-Saconnex_(1X7A0410).jpg",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 33,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/2019_McLaren_Senna_V8_S-A.jpg/1920px-2019_McLaren_Senna_V8_S-A.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2019_McLaren_Senna_V8_S-A.jpg",
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 34,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ferrari_SF90%2C_BAS_24%2C_Brussels_%28P1170486-RR%29.jpg/1920px-Ferrari_SF90%2C_BAS_24%2C_Brussels_%28P1170486-RR%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_SF90,_BAS_24,_Brussels_(P1170486-RR).jpg",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 34,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ferrari_SF90%2C_BAS_24%2C_Brussels_%28P1170502-RR%29.jpg/1920px-Ferrari_SF90%2C_BAS_24%2C_Brussels_%28P1170502-RR%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_SF90,_BAS_24,_Brussels_(P1170502-RR).jpg",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  {
+    "carId": 34,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Ferrari_SF90_Stradale_Mayfair.jpg/1920px-Ferrari_SF90_Stradale_Mayfair.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_SF90_Stradale_Mayfair.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "carId": 34,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/2021_Ferrari_SF90_Stradale_3.jpg/1920px-2021_Ferrari_SF90_Stradale_3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2021_Ferrari_SF90_Stradale_3.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 35,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Lamborghini_Revuelto_DSC_6987.jpg/1920px-Lamborghini_Revuelto_DSC_6987.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lamborghini_Revuelto_DSC_6987.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 35,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lamborghini_Revuelto_DSC_6985.jpg/1920px-Lamborghini_Revuelto_DSC_6985.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lamborghini_Revuelto_DSC_6985.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 35,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Lamborghini_Revuelto_DSC_6984.jpg/1920px-Lamborghini_Revuelto_DSC_6984.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lamborghini_Revuelto_DSC_6984.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 35,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Lamborghini_Revuelto_DSC_6986.jpg/1920px-Lamborghini_Revuelto_DSC_6986.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lamborghini_Revuelto_DSC_6986.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 36,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Porsche_911_GT3_RS_%282022%29_1X7A7164.jpg/1920px-Porsche_911_GT3_RS_%282022%29_1X7A7164.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Porsche_911_GT3_RS_(2022)_1X7A7164.jpg",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 36,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Porsche_992_GT3_RS_DSC_9055.jpg/1920px-Porsche_992_GT3_RS_DSC_9055.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Porsche_992_GT3_RS_DSC_9055.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 36,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Porsche_992_GT3_RS_MYLE_Festival_2025_DSC_9584.jpg/1920px-Porsche_992_GT3_RS_MYLE_Festival_2025_DSC_9584.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Porsche_992_GT3_RS_MYLE_Festival_2025_DSC_9584.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 36,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Porsche_992_GT3_RS_MYLE_Festival_2025_DSC_9585.jpg/1920px-Porsche_992_GT3_RS_MYLE_Festival_2025_DSC_9585.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Porsche_992_GT3_RS_MYLE_Festival_2025_DSC_9585.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 37,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Aston_Martin_Valkyrie%2C_BAS_24%2C_Brussels_%28P1170224-RR%29.jpg/1920px-Aston_Martin_Valkyrie%2C_BAS_24%2C_Brussels_%28P1170224-RR%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Aston_Martin_Valkyrie,_BAS_24,_Brussels_(P1170224-RR).jpg",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  {
+    "carId": 37,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Aston_Martin_Valkyrie%2C_EMS_2023%2C_Essen_%28P1160761-RR%29.jpg/1920px-Aston_Martin_Valkyrie%2C_EMS_2023%2C_Essen_%28P1160761-RR%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Aston_Martin_Valkyrie,_EMS_2023,_Essen_(P1160761-RR).jpg",
+    "author": "MB-one",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 37,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Aston_Martin_Valkyrie%2C_TC_24%2C_Essen_%28TCE42947%29.jpg/1920px-Aston_Martin_Valkyrie%2C_TC_24%2C_Essen_%28TCE42947%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Aston_Martin_Valkyrie,_TC_24,_Essen_(TCE42947).jpg",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  {
+    "carId": 37,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Aston_Martin_Valkyrie_GIMS_2024_1X7A2266.jpg/1920px-Aston_Martin_Valkyrie_GIMS_2024_1X7A2266.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Aston_Martin_Valkyrie_GIMS_2024_1X7A2266.jpg",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 38,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Pagani_Huayra_BC_in_blue_with_light_blue_and_white_accents.jpg/1920px-Pagani_Huayra_BC_in_blue_with_light_blue_and_white_accents.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_BC_in_blue_with_light_blue_and_white_accents.jpg",
+    "author": "Bryan S",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "carId": 38,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Pagani_Huayra_BC.jpg/1920px-Pagani_Huayra_BC.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_BC.jpg",
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 38,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pagani_Huayra_BC_%282017%29_%2852229287348%29.jpg/1920px-Pagani_Huayra_BC_%282017%29_%2852229287348%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_BC_(2017)_(52229287348).jpg",
+    "author": "Charles from Port Chester, New York",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "carId": 38,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Pagani_Huayra_BC_%282017%29_%2852229551184%29.jpg/1920px-Pagani_Huayra_BC_%282017%29_%2852229551184%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_BC_(2017)_(52229551184).jpg",
+    "author": "Charles from Port Chester, New York",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "carId": 39,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/2020_Koenigsegg_Gemera_2.0.jpg/1920px-2020_Koenigsegg_Gemera_2.0.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2020_Koenigsegg_Gemera_2.0.jpg",
+    "author": "Liam Walker",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 39,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Koenigsegg_Gemera%2C_Auto_2024%2C_Zurich_%28PANA0949%29.jpg/1920px-Koenigsegg_Gemera%2C_Auto_2024%2C_Zurich_%28PANA0949%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Koenigsegg_Gemera,_Auto_2024,_Zurich_(PANA0949).jpg",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  {
+    "carId": 39,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Koenigsegg_Gemera_Auto_Zuerich_2023_1X7A1381.jpg/1920px-Koenigsegg_Gemera_Auto_Zuerich_2023_1X7A1381.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Koenigsegg_Gemera_Auto_Zuerich_2023_1X7A1381.jpg",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 39,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Koenigsegg_Gemera_Auto_Zuerich_2023_1X7A1120.jpg/1920px-Koenigsegg_Gemera_Auto_Zuerich_2023_1X7A1120.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Koenigsegg_Gemera_Auto_Zuerich_2023_1X7A1120.jpg",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 40,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Rimac_Nevera.jpg/1920px-Rimac_Nevera.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rimac_Nevera.jpg",
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 40,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rimac_-_Nevera_01.jpg/1920px-Rimac_-_Nevera_01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rimac_-_Nevera_01.jpg",
+    "author": "Miroslav.vajdic",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 40,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rimac_-_Nevera_10.jpg/1920px-Rimac_-_Nevera_10.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rimac_-_Nevera_10.jpg",
+    "author": "Miroslav.vajdic",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 40,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Rimac_-_Nevera_06.jpg/1920px-Rimac_-_Nevera_06.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rimac_-_Nevera_06.jpg",
+    "author": "Miroslav.vajdic",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 41,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Koenigsegg_CCX%2C_GIMS_2018%2C_Le_Grand-Saconnex_%281X7A1713%29.jpg/1920px-Koenigsegg_CCX%2C_GIMS_2018%2C_Le_Grand-Saconnex_%281X7A1713%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCX,_GIMS_2018,_Le_Grand-Saconnex_(1X7A1713).jpg",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 41,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Purple_Koenigsegg_CCX_fl.jpg/1920px-Purple_Koenigsegg_CCX_fl.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Purple_Koenigsegg_CCX_fl.jpg",
+    "author": "Trubble",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "carId": 41,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Koenigsegg_CCX_3.jpg/1920px-Koenigsegg_CCX_3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCX_3.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 41,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Koenigsegg_CCX_4.jpg/1920px-Koenigsegg_CCX_4.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCX_4.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 42,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Koenigsegg_CCXR_Edition_%281_von_2%29.jpg/1920px-Koenigsegg_CCXR_Edition_%281_von_2%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCXR_Edition_(1_von_2).jpg",
+    "author": "Fpm",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "carId": 42,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Koenigsegg_CCXR_Edition.jpg/1920px-Koenigsegg_CCXR_Edition.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCXR_Edition.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 42,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/2008_Koenigsegg_CCXR_Edition.jpg/1920px-2008_Koenigsegg_CCXR_Edition.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2008_Koenigsegg_CCXR_Edition.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 42,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/2008_Koenigsegg_CCXR_Edition_3.jpg/1920px-2008_Koenigsegg_CCXR_Edition_3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2008_Koenigsegg_CCXR_Edition_3.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 43,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Koenigsegg_Agera_R_%285488114439%29.jpg/1920px-Koenigsegg_Agera_R_%285488114439%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Koenigsegg_Agera_R_(5488114439).jpg",
+    "author": "Autoviva",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "carId": 43,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Agera_R_%287703604050%29.jpg/1920px-Agera_R_%287703604050%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Agera_R_(7703604050).jpg",
+    "author": "Ben",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "carId": 43,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Agera_R_%287703604448%29.jpg/1920px-Agera_R_%287703604448%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Agera_R_(7703604448).jpg",
+    "author": "Ben",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "carId": 43,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/KoenigseggAgeraR-interior.jpg/1920px-KoenigseggAgeraR-interior.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:KoenigseggAgeraR-interior.jpg",
+    "author": "Autoviva",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "carId": 44,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/2012_Aston_Martin_One-77_coupe_%282012-10-26%29_01.jpg/1920px-2012_Aston_Martin_One-77_coupe_%282012-10-26%29_01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2012_Aston_Martin_One-77_coupe_(2012-10-26)_01.jpg",
+    "author": "OSX",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  {
+    "carId": 44,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aston_Martin_One-77_Blue.jpg/1920px-Aston_Martin_One-77_Blue.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Aston_Martin_One-77_Blue.jpg",
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 44,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/2014_Aston_Martin_One-77_Front.jpg/1920px-2014_Aston_Martin_One-77_Front.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2014_Aston_Martin_One-77_Front.jpg",
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 44,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Blue_Aston_Martin_One-77_Rear.jpg/1920px-Blue_Aston_Martin_One-77_Rear.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Blue_Aston_Martin_One-77_Rear.jpg",
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 45,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Gumpert_Apollo_-_5192820460.jpg/1920px-Gumpert_Apollo_-_5192820460.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Gumpert_Apollo_-_5192820460.jpg",
+    "author": "Semio",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "carId": 45,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gumpert_Apollo_3.jpg/1920px-Gumpert_Apollo_3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Gumpert_Apollo_3.jpg",
+    "author": "Maximilian Dörrbecker",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+  },
+  {
+    "carId": 45,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Gumpert_Apollo_S%2C_GIMS_2014_%28Ank_Kumar%29_02.jpg/1920px-Gumpert_Apollo_S%2C_GIMS_2014_%28Ank_Kumar%29_02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Gumpert_Apollo_S,_GIMS_2014_(Ank_Kumar)_02.jpg",
+    "author": "Ank Kumar",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 45,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gumpert_Apollo_Sport_2015.jpg/1920px-Gumpert_Apollo_Sport_2015.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Gumpert_Apollo_Sport_2015.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "carId": 46,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/2009_Spyker_C8_Spyder_rL.jpg/1920px-2009_Spyker_C8_Spyder_rL.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2009_Spyker_C8_Spyder_rL.jpg",
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "carId": 46,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/2009_Spyker_C8_Spyder_fL.jpg/1920px-2009_Spyker_C8_Spyder_fL.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2009_Spyker_C8_Spyder_fL.jpg",
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "carId": 46,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/2006_Spyker_C8_Spyder_BPA26.jpg/1920px-2006_Spyker_C8_Spyder_BPA26.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2006_Spyker_C8_Spyder_BPA26.jpg",
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 46,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Spyker_C8_Spyder_-_Flickr_-_Price-Photography.jpg/1920px-Spyker_C8_Spyder_-_Flickr_-_Price-Photography.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Spyker_C8_Spyder_-_Flickr_-_Price-Photography.jpg",
+    "author": "Michael Price from Houston, USA",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "carId": 47,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bugatti_Divo%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0029%29.jpg/1920px-Bugatti_Divo%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0029%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bugatti_Divo,_GIMS_2019,_Le_Grand-Saconnex_(GIMS0029).jpg",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 47,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bugatti_Divo%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0944%29.jpg/1920px-Bugatti_Divo%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0944%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bugatti_Divo,_GIMS_2019,_Le_Grand-Saconnex_(GIMS0944).jpg",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 47,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Paris_Motor_Show_2018%2C_Paris_%281Y7A1636%29.jpg/1920px-Paris_Motor_Show_2018%2C_Paris_%281Y7A1636%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_Motor_Show_2018,_Paris_(1Y7A1636).jpg",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 47,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Paris_Motor_Show_2018%2C_Paris_%281Y7A1628%29.jpg/1920px-Paris_Motor_Show_2018%2C_Paris_%281Y7A1628%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_Motor_Show_2018,_Paris_(1Y7A1628).jpg",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 48,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/2024_Bugatti_Bolide_4.jpg/1920px-2024_Bugatti_Bolide_4.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2024_Bugatti_Bolide_4.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 48,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2024_Bugatti_Bolide_3.jpg/1920px-2024_Bugatti_Bolide_3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2024_Bugatti_Bolide_3.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 48,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/2024_Bugatti_Bolide_2.jpg/1920px-2024_Bugatti_Bolide_2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2024_Bugatti_Bolide_2.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 48,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2024_Bugatti_Bolide_5.jpg/1920px-2024_Bugatti_Bolide_5.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2024_Bugatti_Bolide_5.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 49,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Pagani_Utopia_Auto_Zuerich_2023_1X7A1451.jpg/1920px-Pagani_Utopia_Auto_Zuerich_2023_1X7A1451.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Auto_Zuerich_2023_1X7A1451.jpg",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 49,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Pagani_Utopia_Auto_Zuerich_2023_1X7A1452.jpg/1920px-Pagani_Utopia_Auto_Zuerich_2023_1X7A1452.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Auto_Zuerich_2023_1X7A1452.jpg",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 49,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Pagani_Utopia_Auto_Zuerich_2023_1X7A1185.jpg/1920px-Pagani_Utopia_Auto_Zuerich_2023_1X7A1185.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Auto_Zuerich_2023_1X7A1185.jpg",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 49,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Pagani_Utopia_Auto_Zuerich_2023_1X7A1183.jpg/1920px-Pagani_Utopia_Auto_Zuerich_2023_1X7A1183.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Auto_Zuerich_2023_1X7A1183.jpg",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 50,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/GMA_T.50_at_PB_2022.jpg/1920px-GMA_T.50_at_PB_2022.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:GMA_T.50_at_PB_2022.jpg",
+    "author": "Prova MO",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 50,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2024_Gordon_Murray_Automotive_T.50.jpg/1920px-2024_Gordon_Murray_Automotive_T.50.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2024_Gordon_Murray_Automotive_T.50.jpg",
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 50,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2024_Gordon_Murray_Automotive_T.50_Low.jpg/1920px-2024_Gordon_Murray_Automotive_T.50_Low.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2024_Gordon_Murray_Automotive_T.50_Low.jpg",
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 50,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/GMA_T.50_engine_compartment_at_Quail_2023.jpg/1920px-GMA_T.50_engine_compartment_at_Quail_2023.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:GMA_T.50_engine_compartment_at_Quail_2023.jpg",
+    "author": "Prova MO",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 51,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Lamborghini_Sian_at_IAA_2019_IMG_0332.jpg/1920px-Lamborghini_Sian_at_IAA_2019_IMG_0332.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lamborghini_Sian_at_IAA_2019_IMG_0332.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 51,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Lamborghini_Si%C3%A1n_IAA_2019_JM_1094.jpg/1920px-Lamborghini_Si%C3%A1n_IAA_2019_JM_1094.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lamborghini_Si%C3%A1n_IAA_2019_JM_1094.jpg",
+    "author": "Johannes Maximilian",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 51,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/2022_Lamborghini_Sian_FKP_37.jpg/1920px-2022_Lamborghini_Sian_FKP_37.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2022_Lamborghini_Sian_FKP_37.jpg",
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 51,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rear_of_Lamborghini_Sian_2022_FKP_37.jpg/1920px-Rear_of_Lamborghini_Sian_2022_FKP_37.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rear_of_Lamborghini_Sian_2022_FKP_37.jpg",
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 52,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Hennessey_Venom_F5%2C_GIMS_2018%2C_Le_Grand-Saconnex_%281X7A1390%29.jpg/1920px-Hennessey_Venom_F5%2C_GIMS_2018%2C_Le_Grand-Saconnex_%281X7A1390%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hennessey_Venom_F5,_GIMS_2018,_Le_Grand-Saconnex_(1X7A1390).jpg",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 52,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Hennessey_Venom_F5_Back_Genf_2018.jpg/1920px-Hennessey_Venom_F5_Back_Genf_2018.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hennessey_Venom_F5_Back_Genf_2018.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 52,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hennessey_Venom_F5_European_Premiere_at_Geneva_2018_%28Ank_Kumar%29_10.jpg/1920px-Hennessey_Venom_F5_European_Premiere_at_Geneva_2018_%28Ank_Kumar%29_10.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hennessey_Venom_F5_European_Premiere_at_Geneva_2018_(Ank_Kumar)_10.jpg",
+    "author": "Ank Kumar",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "carId": 52,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Hennessey_Venom_F5_European_Premiere_at_Geneva_2018_%28Ank_Kumar%29_06.jpg/1920px-Hennessey_Venom_F5_European_Premiere_at_Geneva_2018_%28Ank_Kumar%29_06.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hennessey_Venom_F5_European_Premiere_at_Geneva_2018_(Ank_Kumar)_06.jpg",
+    "author": "Ank Kumar",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  }
 ]
