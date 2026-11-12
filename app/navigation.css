@@ -15,3 +15,9 @@
 @media(max-width:650px) { .brand-link { gap:7px; font-size:8px; letter-spacing:.1em; } .brand-logo { width:50px; height:50px; } .nav nav { gap:14px; font-size:9px; } }
 @media(max-width:380px) { .brand-link>span { display:none; } }
 @media(prefers-reduced-motion:reduce) { .nav::after,.nav a::after { animation:none!important; } .brand-logo,.nav a::after { transition:none; } }
+/* Capas explícitas: el canvas nunca oculta el contenido del showroom. */
+.hero .shader { z-index:0; pointer-events:none; }
+.hero .hero-photo { z-index:1; pointer-events:none; }
+.hero::after { z-index:2; pointer-events:none; }
+.hero-content,.hero-bottom { position:relative; z-index:3; }
+.hero-bottom { position:absolute; }
