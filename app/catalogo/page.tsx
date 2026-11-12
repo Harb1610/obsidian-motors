@@ -16,7 +16,7 @@ export default async function Catalogo({ searchParams }: { searchParams: Promise
       <header className="page-head">
         <span className="eyebrow">El archivo Obsidian</span>
         <h1>La colección<span className="red">.</span></h1>
-        <p>Cuarenta maneras de entender lo extraordinario. Encuentra la época, la marca y la máquina que hablan tu idioma.</p>
+        <p>{cars.length} maneras de entender lo extraordinario. Encuentra la época, la marca y la máquina que hablan tu idioma.</p>
       </header>
       <section className="catalog">
         <form action="/catalogo" method="get" className="filters">
