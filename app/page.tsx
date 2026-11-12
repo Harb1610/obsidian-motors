@@ -9,6 +9,7 @@ export default function Home() {
   const rotation = [cars[10], cars[21], cars[26], cars[30], cars[34], cars[39]];
   return <>
     <section className="hero">
+      <Atmosphere />
       <HeroBackdrop cars={rotation} />
       <div className="hero-content">
         <span className="eyebrow">Bogotá · Colección de automóviles excepcionales</span>
