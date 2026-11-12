@@ -24,14 +24,26 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
         <a className="skip" href="#contenido">Saltar al contenido</a>
         <header className="nav">
           <Link className="brand-link" href="/" aria-label="Obsidian Motors · Inicio">
-            <Image className="brand-logo" src="/photo-4b5cf475.jpg" alt="Escudo Obsidian Motors" width={68} height={68} sizes="68px" priority />
+            <Image className="brand-logo" src="/photo-4b5cf475.jpg" alt="Escudo Obsidian Motors" width={68} height={68} sizes="(max-width: 650px) 48px, 68px" priority />
             <span>OBSIDIAN <span className="red">MOTORS</span></span>
           </Link>
-          <nav aria-label="Navegación principal">
+          <nav className="desktop-nav" aria-label="Navegación principal">
             <Link href="/">Inicio</Link>
             <Link href="/catalogo">Colección</Link>
             <Link href="/contacto">Contacto <span className="red">↗</span></Link>
           </nav>
+          {/* Disclosure nativo: teclado y estado expandido sin JavaScript adicional.
+              Los enlaces móviles navegan el documento y cierran el panel. */}
+          <details className="mobile-menu min-[651px]:hidden">
+            <summary aria-label="Menú principal">
+              <span className="menu-icon" aria-hidden="true"><span /><span /></span>
+            </summary>
+            <nav aria-label="Navegación móvil">
+              <a href="/">Inicio</a>
+              <a href="/catalogo">Colección</a>
+              <a href="/contacto">Contacto <span className="red" aria-hidden="true">↗</span></a>
+            </nav>
+          </details>
         </header>
         <main id="contenido">{children}</main>
         <footer>
