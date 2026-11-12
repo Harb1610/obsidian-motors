@@ -14,5 +14,13 @@
 .note { margin-top: 12px; color: #a1a1aa; font-size: 11px; line-height: 1.7; }
 .note span { float: right; }
 @keyframes appear { from { opacity: .35; } to { opacity: 1; } }
-@media(max-width:700px) { .stage { aspect-ratio: 4/3; } .thumbnails { gap: 8px; } .thumbnail { flex-basis: calc((100% - 24px)/4); height: 60px; } .note span { display: block; float: none; } .controls { bottom: 10px; gap: 12px; } }
+@media(max-width:700px) {
+  .stage { aspect-ratio: 4/3; }
+  /* Todas las miniaturas caben; las filas adicionales no desbordan la ficha. */
+  .thumbnails { display: grid; grid-template-columns: repeat(4,minmax(0,1fr)); gap: 8px; overflow: visible; }
+  .thumbnail { width: 100%; min-width: 0; height: 60px; }
+  .note span { display: block; float: none; }
+  .controls { bottom: 10px; gap: 12px; }
+  .controls button { width: 44px; height: 44px; }
+}
 @media(prefers-reduced-motion:reduce) { .image { animation: none; } .thumbnail,.controls button { transition: none; } }
