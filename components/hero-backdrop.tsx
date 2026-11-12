@@ -7,6 +7,8 @@ import type { Car } from '@/lib/cars';
 
 const Glass = dynamic(() => import('@paper-design/shaders-react').then(m => m.FlutedGlass), { ssr: false });
 
+const glassContext: WebGLContextAttributes = { alpha: true, premultipliedAlpha: false, preserveDrawingBuffer: true, powerPreference: 'low-power' };
+
 export default function HeroBackdrop({ cars }: { cars: readonly Car[] }) {
   const root = useRef<HTMLDivElement>(null);
   const [slide, setSlide] = useState({ current: 0, previous: -1 });
@@ -58,7 +60,7 @@ export default function HeroBackdrop({ cars }: { cars: readonly Car[] }) {
     })}
     {/* Glass autónomo: ningún parámetro depende del puntero. */}
     {!reduce && texture && <div aria-hidden="true" style={{ position: 'absolute', inset: 0, zIndex: 3, opacity: 0.06, pointerEvents: 'none', maskImage: 'linear-gradient(90deg,transparent,#fff 45%)' }}>
-      <Glass image={texture} style={{ width: '100%', height: '100%' }} minPixelRatio={1} maxPixelCount={350000} fit="cover"
+      <Glass webGlContextAttributes={glassContext} image={texture} style={{ width: '100%', height: '100%' }} minPixelRatio={1} maxPixelCount={350000} fit="cover"
         colorBack="#00000000" colorShadow="#09090b" colorHighlight="#e7ccd1" shadows={0.01} highlights={0.02}
         shape="wave" distortionShape="lens" size={0.55} distortion={0.005} shift={0} angle={90} blur={0} edges={0} speed={0.08} />
     </div>}
