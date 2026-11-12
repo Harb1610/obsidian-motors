@@ -1,16 +1,16 @@
 import Link from 'next/link';
-import Image from 'next/image';
 import { cars, eras } from '@/lib/cars';
 import CarCard from '@/components/car-card';
+import HeroBackdrop from '@/components/hero-backdrop';
 import { Atmosphere, Reveal } from '@/components/experience';
 
 export default function Home() {
   const featured = [cars[3], cars[10], cars[21]];
-  const hero = cars[10];
+  const rotation = [cars[10], cars[21], cars[26], cars[30], cars[34], cars[39]];
   return <>
     <section className="hero">
       <Atmosphere />
-      <div className="hero-photo"><Image src={hero.imagen} alt={`${hero.marca} ${hero.modelo}, protagonista de nuestra colección`} fill priority sizes="(max-width:650px) 100vw, 72vw" quality={85} /></div>
+      <HeroBackdrop cars={rotation} />
       <div className="hero-content">
         <span className="eyebrow">Bogotá · Colección de automóviles excepcionales</span>
         <h1><span>OBSIDIAN</span><span>MOTORS</span></h1>
