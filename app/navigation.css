@@ -12,12 +12,11 @@
 @keyframes nav-shimmer { 50% { filter:drop-shadow(0 0 5px #d90429); opacity:.6; } }
 .photo::after { content:''; pointer-events:none; position:absolute; inset:0; background:radial-gradient(ellipse at center,transparent 30%,#09090b66); }
 .source a { text-decoration:underline; text-underline-offset:4px; }
-/* Respaldo permanente y sombra localizada: la carrocería conserva su luz. */
+/* Fotografías limpias: ninguna capa de refracción ni canvas encima. */
 .hero { background:radial-gradient(ellipse at 22% 35%,#d9042926,transparent 65%),linear-gradient(120deg,#09090b,#18181b); }
-.hero .shader { z-index:1; opacity:.09; overflow:hidden; pointer-events:none; }
 .hero .hero-photo { z-index:0; pointer-events:none; }
 .hero .hero-photo img { filter:brightness(.94) saturate(.88); opacity:1; mask-image:linear-gradient(90deg,transparent,#fff 24%); }
-.hero .hero-glow { position:absolute; inset:0; z-index:2; pointer-events:none; opacity:.4; background:radial-gradient(ellipse 35% 55% at var(--glow-x,35%) var(--glow-y,45%),#d904292b,transparent 75%); }
+.hero .hero-glow { position:absolute; inset:0; z-index:2; pointer-events:none; opacity:.25; background:radial-gradient(ellipse 35% 55% at var(--glow-x,35%) var(--glow-y,45%),#d904292b,transparent 75%); }
 .hero::after { z-index:3; pointer-events:none; background:radial-gradient(ellipse 48% 65% at 20% 55%,#09090bd9,transparent 100%),linear-gradient(0deg,#09090b,transparent 22%); }
 .hero-content,.hero-bottom { position:relative; z-index:4; }
 .hero-content h1 { text-shadow:0 3px 24px #09090b99; }
@@ -25,9 +24,6 @@
 .hero-slide { position:absolute; inset:0; opacity:0; transition:opacity 1.8s ease-in-out; }
 .hero-slide.is-current { opacity:1; }
 .hero-rotation img { object-fit:cover; }
-.hero-glass { position:absolute; inset:0; z-index:1; opacity:.2; pointer-events:none; mask-image:linear-gradient(90deg,transparent,#fff 30%); }
-.hero div[data-paper-shader] { position:relative; isolation:isolate; }
-.hero div[data-paper-shader] canvas { z-index:0; }
 @media(hover:none) and (prefers-reduced-motion:no-preference) { .hero-glow { animation:obsidian-glow 12s ease-in-out infinite alternate; } }
 @keyframes obsidian-glow { from { transform:translate(-8%,-4%); } to { transform:translate(15%,8%); } }
 @media(max-width:650px) { .brand-link { gap:7px; font-size:8px; letter-spacing:.1em; } .brand-logo { width:50px; height:50px; } .nav nav { gap:14px; font-size:9px; } }
