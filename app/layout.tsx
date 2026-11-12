@@ -5,14 +5,15 @@ import Link from 'next/link';
 import { SmoothScroll } from '@/components/experience';
 import './globals.css';
 import './navigation.css';
+import { cars } from '@/lib/cars';
 
 const display = Cormorant_Garamond({ subsets: ['latin'], weight: ['400', '500', '600'], variable: '--font-display', display: 'swap' });
 const technical = Space_Grotesk({ subsets: ['latin'], variable: '--font-tech', display: 'swap' });
 export const metadata: Metadata = {
   title: { default: 'Obsidian Motors | El arte de conducir', template: '%s | Obsidian Motors' },
-  description: 'Una colección ficticia de 40 deportivos modernos e hiperdeportivos de 2000 en adelante, reunidos en un showroom digital en Bogotá.',
-  icons: { icon: '/logo.jpg', apple: '/logo.jpg' },
-  openGraph: { title: 'Obsidian Motors', description: 'El automóvil como obra de arte. Explora 40 deportivos modernos e hiperdeportivos.', locale: 'es_CO', type: 'website' },
+  description: `Una colección ficticia de ${cars.length} deportivos modernos e hiperdeportivos de 2000 en adelante, reunidos en un showroom digital en Bogotá.`,
+  icons: { icon: '/icon', apple: '/icon' },
+  openGraph: { title: 'Obsidian Motors', description: `El automóvil como obra de arte. Explora ${cars.length} deportivos modernos e hiperdeportivos.`, locale: 'es_CO', type: 'website' },
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
@@ -23,7 +24,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
         <a className="skip" href="#contenido">Saltar al contenido</a>
         <header className="nav">
           <Link className="brand-link" href="/" aria-label="Obsidian Motors · Inicio">
-            <Image className="brand-logo" src="/logo.jpg" alt="Escudo Obsidian Motors" width={68} height={68} sizes="68px" priority />
+            <Image className="brand-logo" src="/photo-4b5cf475.jpg" alt="Escudo Obsidian Motors" width={68} height={68} sizes="68px" priority />
             <span>OBSIDIAN <span className="red">MOTORS</span></span>
           </Link>
           <nav aria-label="Navegación principal">
