@@ -22,5 +22,6 @@
   .note span { display: block; float: none; }
   .controls { bottom: 10px; gap: 12px; }
   .controls button { width: 44px; height: 44px; }
+  .controls span { white-space: nowrap; flex-shrink: 0; }
 }
 @media(prefers-reduced-motion:reduce) { .image { animation: none; } .thumbnail,.controls button { transition: none; } }
