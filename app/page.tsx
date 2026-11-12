@@ -9,7 +9,6 @@ export default function Home() {
   const rotation = [cars[10], cars[21], cars[26], cars[30], cars[34], cars[39]];
   return <>
     <section className="hero">
-      <Atmosphere />
       <HeroBackdrop cars={rotation} />
       <div className="hero-content">
         <span className="eyebrow">Bogotá · Colección de automóviles excepcionales</span>
@@ -26,7 +25,7 @@ export default function Home() {
       </Link>)}</div>
     </Reveal></section>
     <section className="section featured">
-      <div className="section-head"><div><span className="eyebrow">Selección Obsidian</span><h2>Fuera de lo ordinario.</h2></div><Link href="/catalogo">Ver los 40 automóviles ↗</Link></div>
+      <div className="section-head"><div><span className="eyebrow">Selección Obsidian</span><h2>Fuera de lo ordinario.</h2></div><Link href="/catalogo">Ver los {cars.length} automóviles ↗</Link></div>
       <div className="grid">{featured.map(car => <Reveal key={car.id}><CarCard car={car} /></Reveal>)}</div>
     </section>
     <section className="manifesto contact-cta"><Atmosphere border /><span className="meta red">La diferencia está en lo que sientes</span><h2>Hay automóviles.<br />Y hay piezas de historia.</h2><p>Desde los iconos del nuevo milenio hasta la ingeniería del mañana. Una colección digital para quienes entienden que conducir es mucho más que llegar.</p><Link href="/contacto" className="button">Comenzar una conversación <span>↗</span></Link></section>
