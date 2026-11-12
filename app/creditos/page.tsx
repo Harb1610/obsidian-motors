@@ -21,7 +21,7 @@ export default function CreditsPage() {
               {credits.filter((entry) => entry.carId === car.id).map((credit, index) => (
                 <li key={credit.url} style={{ marginBottom: '1.25rem' }}>
                   <p>{index === 0 ? 'Fotografía principal' : `Fotografía ${index + 1}`} · Autoría: {credit.author}</p>
-                  <p>Licencia: <a href={credit.licenseUrl} target="_blank" rel="noopener noreferrer">{credit.license}</a> · <a href={credit.source} target="_blank" rel="noopener noreferrer">Archivo y atribución en Wikimedia Commons ↗</a></p>
+                  <p>Licencia: {credit.licenseUrl ? <a href={credit.licenseUrl} target="_blank" rel="noopener noreferrer">{credit.license}</a> : <span>Dominio público</span>} · <a href={credit.source} target="_blank" rel="noopener noreferrer">Archivo y atribución en Wikimedia Commons ↗</a></p>
                 </li>
               ))}
             </ol>
